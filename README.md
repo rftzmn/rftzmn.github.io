@@ -1,3 +1,3 @@
 # rifat96.github.io
-#Rifat's website on GitHub
+# Rifat's _website_ on `GitHub`
 **Asthetics**
